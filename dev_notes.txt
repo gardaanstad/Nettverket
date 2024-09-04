@@ -1,0 +1,2 @@
+1. "dotnet run" in NettverketAspNet
+2. "npm run dev" in nettverket-nextjs
